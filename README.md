@@ -2,4 +2,4 @@
 
 gitment_blog
 
-> time
+> times
