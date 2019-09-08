@@ -3,5 +3,3 @@
 gitment_blog
 
 > time
-
-1231
